@@ -1,0 +1,9 @@
+.idea
+.htaccess
+
+*.log
+sitemap.xml
+sitemap.xml.gz
+.sass-cache
+*.css.map
+
